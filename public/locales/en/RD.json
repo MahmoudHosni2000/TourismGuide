@@ -1,0 +1,36 @@
+{
+    "restaurants": {
+      "Nubian Village Restaurant": "Experience authentic Nubian cuisine in a traditional setting.",
+      "Zitouni": "An upscale dining experience offering traditional Egyptian cuisine.",
+      "Ali Baba Restaurant": "A popular beachfront restaurant in Dahab serving fresh seafood and Middle Eastern dishes.",
+      "Sequoia": "A chic restaurant in Zamalek offering Mediterranean cuisine with stunning views of the Nile.",
+      "Koshary Abou Tarek": "A famous spot in Cairo serving traditional Egyptian Koshary.",
+      "Andrea Mariouteya": "A renowned spot for grilled dishes with a rustic atmosphere.",
+      "Fares Seafood": "A well-known seafood restaurant in Sharm El Sheikh offering fresh catches.",
+      "1886 Restaurant": "A fine dining experience in the historic Winter Palace Hotel.",
+      "El Halaka Fish Restaurant": "A local favorite in Hurghada for fresh seafood.",
+      "description": {
+        "Nubian Village Restaurant": "Experience authentic Nubian cuisine in a traditional setting.",
+        "Zitouni": "An upscale dining experience offering traditional Egyptian cuisine.",
+        "Ali Baba Restaurant": "A popular beachfront restaurant in Dahab serving fresh seafood and Middle Eastern dishes.",
+        "Sequoia": "A chic restaurant in Zamalek offering Mediterranean cuisine with stunning views of the Nile.",
+        "Koshary Abou Tarek": "A famous spot in Cairo serving traditional Egyptian Koshary.",
+        "Andrea Mariouteya": "A renowned spot for grilled dishes with a rustic atmosphere.",
+        "Fares Seafood": "A well-known seafood restaurant in Sharm El Sheikh offering fresh catches.",
+        "1886 Restaurant": "A fine dining experience in the historic Winter Palace Hotel.",
+        "El Halaka Fish Restaurant": "A local favorite in Hurghada for fresh seafood."
+      },
+      "title": {
+        "Nubian Village Restaurant": "Nubian Village, Aswan",
+        "Zitouni": "Four Seasons Hotel Cairo at Nile Plaza, Garden City, Cairo",
+        "Ali Baba Restaurant": "Dahab Promenade, Dahab",
+        "Sequoia": "53 Abou El Feda St, Zamalek, Cairo",
+        "Koshary Abou Tarek": "16 El Gomhoreya St, Downtown, Cairo",
+        "Andrea Mariouteya": "Mariouteya Canal, Giza",
+        "El Halaka Fish Restaurant": "El-Mina Street, Alexandria",
+        "Fares Seafood": "Naama Bay, Sharm El Sheikh",
+        "1886 Restaurant": "Palace Winter Hotel, Cairo"
+      }
+    }
+  }
+  

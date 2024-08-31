@@ -1,0 +1,38 @@
+{
+    "transportation": {
+      "select_type": "Select Transportation Type",
+      "private_transportation": "Private Transportation",
+      "public_transportation": "Public Transportation",
+      "private": "Private",
+      "public": "Public",
+      "links": {
+        "uber": "Uber",
+        "careem": "Careem",
+        "didi": "DiDi-Rider",
+        "indriver": "InDriver"
+      },
+      "stations": {
+        "station1": {
+          "name": "Bus Station 1",
+          "address": "Address: 123 Main St",
+          "time": "Time: 08:00 AM - 06:00 PM"
+        },
+        "station2": {
+          "name": "Bus Station 2",
+          "address": "Address: 456 Elm St",
+          "time": "Time: 09:00 AM - 07:00 PM"
+        },
+        "station3": {
+          "name": "Bus Station 3",
+          "address": "Address: 789 Oak St",
+          "time": "Time: 07:00 AM - 05:00 PM"
+        },
+        "station4": {
+          "name": "Bus Station 4",
+          "address": "Address: 101 Pine St",
+          "time": "Time: 10:00 AM - 08:00 PM"
+        }
+      }
+    }
+  }
+  

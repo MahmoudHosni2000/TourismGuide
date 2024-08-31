@@ -1,0 +1,28 @@
+{
+    "submitRestaurant": "Submit Your Restaurant",
+    "restaurantName": "Restaurant Name",
+    "priceRangeSelect":"Select your plan",
+    "placeholderSpecialOffers":"e.g., Happy Hour, Discount on certain days",
+    "restaurantLocation": "Location",
+    "cuisineType": "Cuisine Type",
+    "restaurantDescription": "Description",
+    "contactInfo": "Contact Information",
+    "openingHours": "Opening Hours",
+    "priceRange": "Price Range",
+    "specialOffers": "Special Offers (Optional)",
+    "uploadImagesRestaurant": "Upload Images Restaurant",
+    "uploadImagesMenu": "Upload Images Menu",
+    "submitButton": "Submit Restaurant",
+    "placeholderName": "Enter the restaurant's name",
+    "placeholderLocation": "Enter the restaurant's address or area",
+    "placeholderCuisine": "e.g., Egyptian, Italian, Chinese",
+    "placeholderDescription": "Describe the restaurant and its offerings",
+    "placeholderContact": "Phone number, email, or website",
+    "placeholderHours": "e.g., 10:00 AM - 10:00 PM",
+    "priceRangeOptions": {
+      "low": "Low ($)",
+      "medium": "Medium ($$)",
+      "high": "High ($$$)"
+    }
+  }
+  

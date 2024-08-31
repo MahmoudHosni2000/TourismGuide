@@ -1,0 +1,57 @@
+{
+    "hotels": {
+        "fourSeasonsHotelCairo": {
+            "name": "Four Seasons Hotel Cairo",
+            "description": "A luxury hotel offering breathtaking Nile views and exceptional service.",
+            "address": "1089 Corniche El Nil, Cairo, Egypt"
+        },
+        "kempinskiNileHotelCairo": {
+            "name": "Kempinski Nile Hotel Cairo",
+            "description": "An elegant hotel with luxurious amenities and rooftop dining overlooking the Nile.",
+            "address": "12 Ahmed Ragheb St, Cairo, Egypt"
+        },
+        "conradCairo": {
+            "name": "Conrad Cairo",
+            "description": "A modern hotel featuring a casino and luxury accommodations with city views.",
+            "address": "1191 Corniche El Nil, Cairo, Egypt"
+        },
+        "intercontinentalCairoSemiramis": {
+            "name": "InterContinental Cairo Semiramis",
+            "description": "A grand hotel with sophisticated rooms and a renowned rooftop restaurant.",
+            "address": "Corniche El Nil, Cairo, Egypt"
+        },
+        "ritzCarltonCairo": {
+            "name": "The Ritz-Carlton, Cairo",
+            "description": "Opulent suites and world-class amenities in a prime location overlooking the Nile.",
+            "address": "1113 Corniche El Nil, Cairo, Egypt"
+        },
+        "movenpickResortAswan": {
+            "name": "Mövenpick Resort Aswan",
+            "description": "An island resort offering beautiful Nile views and a range of leisure activities.",
+            "address": "Elephantine Island, Aswan, Egypt"
+        },
+        "sofitelLegendOldCataractAswan": {
+            "name": "Sofitel Legend Old Cataract Aswan",
+            "description": "A historic hotel with luxurious suites and stunning views of the Nile River.",
+            "address": "Abtal El Tahrir St, Aswan, Egypt"
+        },
+        "fourSeasonsHotelAlexandria": {
+            "name": "Four Seasons Hotel Alexandria",
+            "description": "A lavish seaside retreat with exceptional amenities and panoramic sea views.",
+            "address": "399 El-Geish Road, Alexandria, Egypt"
+        }
+    },
+    "amenities": {
+        "freeWiFi": "Free Wi-Fi",
+        "spa": "Spa",
+        "pool": "Pool",
+        "fitnessCenter": "Fitness Center",
+        "businessCenter": "Business Center",
+        "nileViews": "Nile Views",
+        "rooftopRestaurant": "Rooftop Restaurant",
+        "casino": "Casino",
+        "luxurySuites": "Luxury Suites",
+        "seaViews": "Sea Views",
+        "islandResort": "Island Resort"
+    }
+}

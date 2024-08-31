@@ -1,0 +1,28 @@
+.card {
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  border-bottom: 3px solid #9e7e55;
+}
+
+.cardBody {
+  text-align: center;
+}
+
+.btnPrimary {
+  background-color: #9e7e55;
+  border: none;
+}
+
+.btnPrimary:hover {
+  background-color: #9e7e55;
+}

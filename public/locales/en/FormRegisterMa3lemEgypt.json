@@ -1,0 +1,25 @@
+{
+    "submitAttraction": "Submit Tourist Attraction",
+    "attractionName": "Attraction Name",
+    "attractionLocation": "Location",
+    "attractionType": "Type of Attraction",
+    "attractionDescription": "Description",
+    "contactInfo": "Contact Information",
+    "openingHours": "Opening Hours",
+    "ticketPriceRange": "Ticket Price Range",
+    "specialOffers": "Special Offers (Optional)",
+    "uploadImagesAttraction": "Upload Images of the Attraction",
+    "submitButton": "Submit Attraction",
+    "placeholderName": "Enter the name of the attraction",
+    "placeholderLocation": "Enter the location of the attraction",
+    "placeholderType": "e.g., Historical, Natural, Cultural",
+    "placeholderDescription": "Describe the attraction and its significance",
+    "placeholderContact": "Phone number, email, or website",
+    "placeholderHours": "e.g., 9:00 AM - 5:00 PM",
+    "ticketPriceRangeOptions": {
+      "low": "Low ($)",
+      "medium": "Medium ($$)",
+      "high": "High ($$$)"
+    }
+  }
+  

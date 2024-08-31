@@ -1,0 +1,27 @@
+{
+  "submitRestaurant": "قدّم مطعمك",
+  "restaurantName": "اسم المطعم",
+  "priceRangeSelect": "اختر نطاق السعر",
+  "placeholderSpecialOffers": "على سبيل المثال، ساعة سعيدة، خصم في أيام معينة",
+  "restaurantLocation": "الموقع",
+  "cuisineType": "نوع المأكولات",
+  "restaurantDescription": "الوصف",
+  "contactInfo": "معلومات الاتصال",
+  "openingHours": "ساعات العمل",
+  "priceRange": "نطاق الأسعار",
+  "specialOffers": "عروض خاصة (اختياري)",
+  "uploadImagesRestaurant": "تحميل صور المطعم",
+  "uploadImagesMenu": "تحميل صور القائمة",
+  "submitButton": "قدّم المطعم",
+  "placeholderName": "أدخل اسم المطعم",
+  "placeholderLocation": "أدخل عنوان أو منطقة المطعم",
+  "placeholderCuisine": "مثل، مصري، إيطالي، صيني",
+  "placeholderDescription": "وصف المطعم وما يقدمه",
+  "placeholderContact": "رقم الهاتف، البريد الإلكتروني، أو الموقع الإلكتروني",
+  "placeholderHours": "مثل، 10:00 صباحًا - 10:00 مساءً",
+  "priceRangeOptions": {
+    "low": "منخفض ($)",
+    "medium": "متوسط ($$)",
+    "high": "عالي ($$$)"
+  }
+}

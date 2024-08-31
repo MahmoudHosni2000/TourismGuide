@@ -1,0 +1,48 @@
+/* HotelCard.module.css */
+.hotelCard {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.hotelImage {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.hotelInfo {
+  padding: 16px;
+  flex: 1;
+}
+
+.hotelInfo h3 {
+  margin-top: 0;
+}
+
+.hotelLink {
+  display: block;
+  margin: 10px 0;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.hotelLink:hover {
+  text-decoration: underline;
+}
+
+.directionBtn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.directionBtn:hover {
+  background-color: #218838;
+}

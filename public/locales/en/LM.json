@@ -1,0 +1,130 @@
+{
+  "landmarks": {
+    "The Great Pyramid of Giza": {
+      "name": "The Great Pyramid of Giza",
+      "category": "Historic Site",
+      "address": "Giza Necropolis, Giza Governorate",
+      "price_range": "200 EGP",
+      "opening_hours": "Mon-Sun 08:00-17:00",
+      "city": "Cairo",
+      "description": "The last remaining wonder of the ancient world, the Great Pyramid of Giza is a symbol of Egypt’s rich history."
+    },
+    "The Sphinx of Giza": {
+      "name": "The Sphinx of Giza",
+      "category": "Historic Site",
+      "address": "Giza Plateau, Giza Governorate",
+      "price_range": "200 EGP",
+      "opening_hours": "Mon-Sun 08:00-17:00",
+      "city": "Cairo",
+      "description": "The Great Sphinx of Giza, a limestone statue with a lion's body and a human head, guards the Pyramids of Giza."
+    },
+    "Karnak Temple": {
+      "name": "Karnak Temple",
+      "category": "Historic Site",
+      "address": "Karnak, Luxor Governorate",
+      "price_range": "150 EGP",
+      "opening_hours": "Mon-Sun 06:00-17:00",
+      "city": "Luxor",
+      "description": "Karnak Temple is one of the largest religious buildings ever constructed, dedicated to the Theban triad."
+    },
+    "Valley of the Kings": {
+      "name": "Valley of the Kings",
+      "category": "Historic Site",
+      "address": "Luxor Governorate",
+      "price_range": "160 EGP",
+      "opening_hours": "Mon-Sun 06:00-17:00",
+      "city": "Luxor",
+      "description": "The Valley of the Kings is the ancient burial ground of many of Egypt's New Kingdom pharaohs."
+    },
+    "Abu Simbel Temples": {
+      "name": "Abu Simbel Temples",
+      "category": "Historic Site",
+      "address": "Abu Simbel, Aswan Governorate",
+      "price_range": "240 EGP",
+      "opening_hours": "Mon-Sun 06:00-17:00",
+      "city": "Aswan",
+      "description": "The Abu Simbel temples are two massive rock temples originally carved out of a mountainside during the reign of Pharaoh Ramesses II."
+    },
+    "Egyptian Museum": {
+      "name": "Egyptian Museum",
+      "category": "Museum",
+      "address": "Tahrir Square, Cairo Governorate",
+      "price_range": "100 EGP",
+      "opening_hours": "Mon-Sun 09:00-17:00",
+      "city": "Cairo",
+      "description": "The Egyptian Museum in Cairo contains the world's most extensive collection of pharaonic antiquities."
+    },
+    "Citadel of Qaitbay": {
+      "name": "Citadel of Qaitbay",
+      "category": "Fortress",
+      "address": "Alexandria Governorate",
+      "price_range": "60 EGP",
+      "opening_hours": "Mon-Sun 09:00-17:00",
+      "city": "Alexandria",
+      "description": "The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast in Alexandria."
+    },
+    "Philae Temple": {
+      "name": "Philae Temple",
+      "category": "Historic Site",
+      "address": "Philae Island, Aswan Governorate",
+      "price_range": "100 EGP",
+      "opening_hours": "Mon-Sun 08:00-17:00",
+      "city": "Aswan",
+      "description": "The Philae Temple complex, located on Agilkia Island, is one of Nubia's most important monument sites."
+    },
+    "Cairo Tower": {
+      "name": "Cairo Tower",
+      "category": "Observation Tower",
+      "address": "Zamalek, Cairo Governorate",
+      "price_range": "60 EGP",
+      "opening_hours": "Mon-Sun 08:00-23:00",
+      "city": "Cairo",
+      "description": "Cairo Tower, located in Zamalek, offers panoramic views of Cairo from its observation deck."
+    },
+    "Al-Azhar Mosque": {
+      "name": "Al-Azhar Mosque",
+      "category": "Religious Site",
+      "address": "Islamic Cairo, Cairo Governorate",
+      "price_range": "Free",
+      "opening_hours": "Mon-Sun 09:00-18:00",
+      "city": "Cairo",
+      "description": "Al-Azhar Mosque is one of the most iconic and historic mosques in Cairo, founded in 970 AD."
+    },
+    "Library of Alexandria": {
+      "name": "Library of Alexandria",
+      "category": "Cultural Site",
+      "address": "El-Gaish Rd, Alexandria Governorate",
+      "price_range": "80 EGP",
+      "opening_hours": "Mon-Sun 10:00-19:00",
+      "city": "Alexandria",
+      "description": "The modern Library of Alexandria is a major library and cultural center located on the shore of the Mediterranean Sea."
+    },
+    "Unfinished Obelisk": {
+      "name": "Unfinished Obelisk",
+      "category": "Historic Site",
+      "address": "Aswan Governorate",
+      "price_range": "60 EGP",
+      "opening_hours": "Mon-Sun 08:00-17:00",
+      "city": "Aswan",
+      "description": "The Unfinished Obelisk is the largest known ancient obelisk and a testament to the stone-working skills of the ancient Egyptians."
+    },
+    "The Hanging Church": {
+      "name": "The Hanging Church",
+      "category": "Religious Site",
+      "address": "Old Cairo, Cairo Governorate",
+      "price_range": "Free",
+      "opening_hours": "Mon-Sun 09:00-17:00",
+      "city": "Cairo",
+      "description": "The Hanging Church is one of the oldest churches in Egypt and is suspended above a gatehouse of the Babylon Fortress."
+    },
+    "Luxor Temple": {
+      "name": "Luxor Temple",
+      "category": "Historic Site",
+      "address": "Luxor Governorate",
+      "price_range": "100 EGP",
+      "opening_hours": "Mon-Sun 06:00-22:00",
+      "city": "Luxor",
+      "description": "Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city of Luxor."
+    }
+  }
+}

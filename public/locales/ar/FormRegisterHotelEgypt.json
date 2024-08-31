@@ -1,0 +1,26 @@
+{
+  "submitHotel": "قدم فندقك",
+  "hotelName": "اسم الفندق",
+  "hotelLocation": "الموقع",
+  "hotelRating": "تقييم الفندق",
+  "selectRating": "-- حدد التقييم --",
+  "selectPriceRange":"-- حدد نطاق السعر --",
+  "hotelDescription": "الوصف",
+  "contactInfo": "معلومات الاتصال",
+  "openingHours": "ساعات العمل",
+  "priceRange": "نطاق الأسعار",
+  "specialOffers1": "عروض خاصة (اختياري)",
+  "specialOffers":"على سبيل المثال، وجبة إفطار مجانية، خدمة الاستقبال من المطار",
+  "uploadImagesHotel": "تحميل صور الفندق",
+  "submitButton": "تقديم الفندق",
+  "placeholderName": "أدخل اسم الفندق",
+  "placeholderLocation": "أدخل عنوان أو منطقة الفندق",
+  "placeholderDescription": "وصف الفندق وما يقدمه",
+  "placeholderContact": "رقم الهاتف، البريد الإلكتروني، أو الموقع",
+  "placeholderHours": "مثل، 24/7",
+  "priceRangeOptions": {
+    "low": "منخفض ($)",
+    "medium": "متوسط ($$)",
+    "high": "عالي ($$$)"
+  }
+}

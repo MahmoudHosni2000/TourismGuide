@@ -1,0 +1,25 @@
+{
+    "submitAttraction": "قدّم المعلم السياحي",
+    "attractionName": "اسم المعلم",
+    "attractionLocation": "الموقع",
+    "attractionType": "نوع المعلم",
+    "attractionDescription": "الوصف",
+    "contactInfo": "معلومات الاتصال",
+    "openingHours": "ساعات العمل",
+    "ticketPriceRange": "نطاق أسعار التذاكر",
+    "specialOffers": "عروض خاصة (اختياري)",
+    "uploadImagesAttraction": "تحميل صور المعلم",
+    "submitButton": "قدّم المعلم",
+    "placeholderName": "أدخل اسم المعلم",
+    "placeholderLocation": "أدخل موقع المعلم",
+    "placeholderType": "مثل، تاريخي، طبيعي، ثقافي",
+    "placeholderDescription": "وصف المعلم وأهميته",
+    "placeholderContact": "رقم الهاتف، البريد الإلكتروني، أو الموقع الإلكتروني",
+    "placeholderHours": "مثل، 9:00 صباحًا - 5:00 مساءً",
+    "ticketPriceRangeOptions": {
+      "low": "منخفض ($)",
+      "medium": "متوسط ($$)",
+      "high": "عالي ($$$)"
+    }
+  }
+  

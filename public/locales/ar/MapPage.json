@@ -1,0 +1,38 @@
+{
+    "transportation": {
+      "select_type": "اختر نوع النقل",
+      "private_transportation": "النقل الخاص",
+      "public_transportation": "النقل العام",
+      "private": "خاص",
+      "public": "عام",
+      "links": {
+        "uber": "Uber",
+        "careem": "Careem",
+        "didi": "DiDi-Rider",
+        "indriver": "InDriver"
+      },
+      "stations": {
+        "station1": {
+          "name": "محطة الحافلات 1",
+          "address": "العنوان: شارع الرئيسي 123",
+          "time": "الوقت: 08:00 ص - 06:00 م"
+        },
+        "station2": {
+          "name": "محطة الحافلات 2",
+          "address": "العنوان: شارع إيلم 456",
+          "time": "الوقت: 09:00 ص - 07:00 م"
+        },
+        "station3": {
+          "name": "محطة الحافلات 3",
+          "address": "العنوان: شارع أوك 789",
+          "time": "الوقت: 07:00 ص - 05:00 م"
+        },
+        "station4": {
+          "name": "محطة الحافلات 4",
+          "address": "العنوان: شارع باين 101",
+          "time": "الوقت: 10:00 ص - 08:00 م"
+        }
+      }
+    }
+  }
+  

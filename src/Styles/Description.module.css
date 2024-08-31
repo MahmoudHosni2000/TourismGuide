@@ -1,0 +1,60 @@
+.descriptionSection {
+  display: flex;
+  align-items: center;
+  padding: 0px 50px;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.descriptionContent {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+.descriptionContent h2 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.descriptionDivider {
+  width: 50px;
+  height: 3px;
+  background-color: #9e7e55;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.descriptionContent p {
+  font-size: 18px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.descriptionMedia {
+  flex: 1;
+}
+
+/* .descriptionMedia img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+} */
+
+@media (max-width: 1024px) {
+  .modelBackground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.5; /* تعديل مستوى الشفافية إذا كنت تريد رؤية الموديل بوضوح أقل */
+  }
+  .descriptionSection {
+    padding: 50px;
+  }
+}

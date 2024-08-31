@@ -1,0 +1,23 @@
+{
+    "landmarks": {
+      "alt": "landmark",
+      "title": "Explore Iconic Landmarks",
+      "description": "Discover the history and grandeur of the world's most famous landmarks, where the stories of ancient civilizations come alive. These iconic structures are more than just stone and mortar; they are the embodiment of culture, innovation, and the human spirit. Journey through time and witness the beauty and significance of these extraordinary places that continue to inspire awe and wonder.",
+      "learnMore": "Learn More",
+      "gallery": "Gallery"
+    },
+    "hotels": {
+      "title": "Stay at Luxury Hotels",
+      "description": "Indulge in the comfort and elegance of world-class hotels, where every detail is crafted to perfection. Experience unparalleled luxury, from opulent rooms to exceptional service, all designed to create unforgettable moments. Whether you are traveling for leisure or business, these hotels offer an oasis of tranquility and sophistication in the heart of bustling cities or serene landscapes.",
+      "bookNow": "Book Now",
+      "viewDetails": "View Details"
+    },
+    "restaurants": {
+      "alt": "restaurant",
+      "title": "Dine at Top Restaurants",
+      "description": "Savor the flavors of the finest cuisines from around the world, where culinary artistry meets exquisite ingredients. From Michelin-starred restaurants to hidden gems, embark on a gastronomic journey that delights the senses. Each dish is a celebration of taste, creativity, and passion, offering you an unforgettable dining experience that reflects the essence of diverse cultures and traditions.",
+      "reserveTable": "Reserve a Table",
+      "exploreMenu": "Explore Menu"
+    }
+  }
+  

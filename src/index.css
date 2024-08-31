@@ -1,0 +1,201 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap");
+
+* {
+  font-family: system-ui !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./Assets/Pyramid\ of\ Giza.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+input {
+  color: #000;
+  /* Change this to your desired text color */
+}
+
+.custom-input:focus {
+  border-color: none !important;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  background: #000;
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.direction-rtl {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+/*  */
+.main-colors {
+  color: #a37822;
+}
+
+.text-dangers {
+  color: #870000;
+}
+
+.card:hover .btn.buttons {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.card:hover .card-img-top2 {
+  scale: 1.1;
+
+}
+
+.btn.buttons {
+  background-color: #a37822;
+  color: white;
+  border: 1px solid #a37822;
+  /* transform: translateY(100%);
+  opacity: 0;
+  transition: all 0.8s; */
+}
+
+.btn.buttons:hover {
+  background-color: white;
+  color: #a37822;
+  border: 1px solid #a37822;
+}
+
+.ProgramEgypt {
+  header {
+    background-image: url(./Assets/i4.jpg);
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -300px;
+  }
+
+  .content h2 {
+    color: #a37822;
+  }
+
+  .textColor {
+    color: #870000;
+  }
+
+  .package {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 560px;
+    background-image: linear-gradient(180deg, #a37822 8%, white 6%);
+  }
+
+  .package h5 {
+    margin-top: 0;
+  }
+
+  button {
+    background-color: #a37822;
+    color: white;
+    border: 1px solid #a37822;
+  }
+
+  button:hover {
+    background-color: white;
+    color: #a37822;
+    border: 1px solid #a37822;
+  }
+
+  .package ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .package ul li {
+    margin-bottom: 10px;
+  }
+
+  .backColor_g {
+    background-image: linear-gradient(180deg, #a37822 12%, white 6%);
+  }
+}
+
+img.card-img-top2 {
+  height: 250px;
+  transition: scale 1s;
+}
+
+.card {
+  overflow: hidden;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.containerMapContent {
+  border-bottom-right-radius: 7px;
+  border: 1px solid #979797;
+  border-top-right-radius: 7px;
+  box-shadow: 10px 10px 14px 2px #787675;
+  background-color: #ffffff;
+}
+
+.borderContent {
+  border: 1px solid rgb(185 185 185);
+  box-shadow: 1px 2px 4px 2px #e1e1e1;
+  border-radius: 10px;
+  background-image: linear-gradient(180deg, #787674 25%, white 11%);
+}
+
+.borderContent2 {
+  border: 1px solid rgb(185 185 185);
+  box-shadow: 1px 2px 4px 2px #e1e1e1;
+  border-radius: 10px;
+  padding: 10px 5px;
+}
+
+.my-specific-class{
+  
+}

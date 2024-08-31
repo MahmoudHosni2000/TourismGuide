@@ -1,0 +1,90 @@
+{
+  "header": {
+    "1": "Home",
+    "2": "Destinations",
+    "3": "Tours",
+    "4": "Contact",
+    "5": "Register"
+  },
+  "hero": {
+    "title": "Explore the World with Us",
+    "desc": "Your adventure begins here",
+    "Button": "Explore now"
+  },
+  "menu": {
+    "1": "Restaurant",
+    "2": "Hotels",
+    "3": "Landmarks"
+  },
+  "Description": {
+    "title": "Experience Egypt Like Never Before",
+    "desc": "Our Tourist Guide application is your ultimate companion when visiting Egypt. Whether you're looking for the perfect hotel, craving delicious food, or seeking out must-see landmarks, we've got you covered. Discover detailed information about each hotel, including the services they offer, room costs, reviews, and ratings. Find top-rated restaurants, explore exciting activities, and easily navigate public or private transportation—all at affordable prices. Let us help you make the most of your visit to Egypt with comprehensive and user-friendly guides."
+  },
+  "activities": {
+    "pyramidsOfGiza": {
+      "title": "Pyramids of Giza",
+      "description": "Explore the iconic pyramids and the Sphinx, one of the Seven Wonders of the Ancient World.",
+      "cost": "Starts from $299.00"
+    },
+    "luxorTemple": {
+      "title": "Luxor Temple",
+      "description": "Discover the magnificent Luxor Temple with its grand columns and historical significance.",
+      "cost": "Starts from $199.00"
+    },
+    "valleyOfTheKings": {
+      "title": "Valley of the Kings",
+      "description": "Visit the Valley of the Kings and explore the tombs of ancient Egyptian kings and queens.",
+      "cost": "Starts from $499.00"
+    },
+    "abuSimbel": {
+      "title": "Abu Simbel",
+      "description": "Marvel at the colossal statues of Ramses II and his queen at Abu Simbel.",
+      "cost": "Starts from $250.00"
+    }
+  },
+  "services": {
+    "mainTitle": "We Offer the best",
+    "variousAdventures": {
+      "title": "Various Adventures",
+      "description": "Temporary work and great pain. Some uncertain details."
+    },
+    "adventurousTrails": {
+      "title": "Adventurous Trails",
+      "description": "Great pain and pleasure in seeking new experiences and exploring."
+    },
+    "trainedGuides": {
+      "title": "Trained Guides",
+      "description": "Experienced guides who provide assistance and support."
+    },
+    "familyTrips": {
+      "title": "Family Trips",
+      "description": "Trips designed for family enjoyment and togetherness."
+    },
+    "customPackages": {
+      "title": "Custom Packages",
+      "description": "Customizable packages designed to meet specific needs."
+    },
+    "completeGuide": {
+      "title": "Complete Guide",
+      "description": "A comprehensive guide covering all necessary information."
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "overview": "Overview",
+    "features": "Features",
+    "solutions": "Solutions",
+    "tutorials": "Tutorials",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "press": "Press",
+    "news": "News",
+    "resource": "Resource",
+    "blog": "Blog",
+    "newsletter": "Newsletter",
+    "events": "Events",
+    "helpCenter": "Help Center",
+    "rightsReserved": "All rights reserved"
+  }
+}

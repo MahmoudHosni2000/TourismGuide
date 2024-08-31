@@ -1,0 +1,26 @@
+{
+  "submitHotel": "Submit Your Hotel",
+  "hotelName": "Hotel Name",
+  "hotelLocation": "Location",
+  "hotelRating": "Hotel Rating",
+  "selectRating": "-- Select Rating --",
+  "selectPriceRange":"-- Select Price Range --",
+  "hotelDescription": "Description",
+  "contactInfo": "Contact Information",
+  "openingHours": "Opening Hours",
+  "priceRange": "Price Range",
+  "specialOffers": "e.g., Free breakfast, Airport pickup",
+  "specialOffers1": "Special Offers (Optional)",
+  "uploadImagesHotel": "Upload Images Hotel",
+  "submitButton": "Submit Hotel",
+  "placeholderName": "Enter the hotel's name",
+  "placeholderLocation": "Enter the hotel's address or area",
+  "placeholderDescription": "Describe the hotel and its offerings",
+  "placeholderContact": "Phone number, email, or website",
+  "placeholderHours": "e.g., 24/7",
+  "priceRangeOptions": {
+    "low": "Low ($)",
+    "medium": "Medium ($$)",
+    "high": "High ($$$)"
+  }
+}
